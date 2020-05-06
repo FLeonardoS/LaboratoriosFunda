@@ -8,5 +8,6 @@ int main ()
     cin >> numero;
     cout <<"El numero que eligio es: " <<endl;
     cout << numero;
+    return 0;
     
 }
